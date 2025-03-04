@@ -32,11 +32,11 @@ Graf berbobot merepresentasikan stasiun sebagai simpul dan jalur sebagai sisi de
 
 | Graf | Penjelasan |
 |--------|-----------|
-| <img src="https://github.com/user-attachments/assets/13401d81-9ac9-4df5-a8a2-84829e67c84a" width="300"> | Tetapkan Stasiun A dengan waktu tempuh 0 menit, sementara stasiun lain ∞. Dari A, Stasiun B diperbarui menjadi 4 menit dan Stasiun C menjadi 2 menit. |
-| <img src="https://github.com/user-attachments/assets/421cae94-7478-4781-bba0-45d7a0f18623" width="300"> | Pilih stasiun dengan estimasi terkecil yang belum dieksplorasi, yaitu Stasiun C (2 menit). |
-| <img src="https://github.com/user-attachments/assets/be8e015b-86c9-4b59-84cd-a97c51bb27b3" width="300"> | Perbarui estimasi stasiun yang terhubung langsung. Stasiun E, dengan waktu tempuh 5 menit dari Stasiun C, menjadi 7 menit. |
-| <img src="https://github.com/user-attachments/assets/11800ef0-1d62-4394-81cb-8753b00b4dbb" width="300"> | Jika ditemukan jalur lebih cepat, perbarui estimasi. Misalnya, jalur dari Stasiun C ke Stasiun B (1 menit) membuat total waktu ke Stasiun B menjadi 3 menit. <br>  <br> Pilih stasiun belum dieksplorasi dengan estimasi terkecil dan lanjutkan proses. <br> <br>  Ulangi pembaruan estimasi setiap kali ada jalur lebih cepat. |
-| <img src="https://github.com/user-attachments/assets/0b1e8b42-e19f-4acc-8693-b8a1b2101460" width="300"> | Jika Stasiun D menjadi stasiun berikutnya yang dieksplorasi, berarti hampir selesai. <br> <br>  Ketika Stasiun D telah dieksplorasi, jalur tercepat telah ditemukan. |
+| <img src="https://github.com/user-attachments/assets/13401d81-9ac9-4df5-a8a2-84829e67c84a" width="400"> | Tetapkan Stasiun A dengan waktu tempuh 0 menit, sementara stasiun lain ∞. Dari A, Stasiun B diperbarui menjadi 4 menit dan Stasiun C menjadi 2 menit. |
+| <img src="https://github.com/user-attachments/assets/421cae94-7478-4781-bba0-45d7a0f18623" width="400"> | Pilih stasiun dengan estimasi terkecil yang belum dieksplorasi, yaitu Stasiun C (2 menit). |
+| <img src="https://github.com/user-attachments/assets/be8e015b-86c9-4b59-84cd-a97c51bb27b3" width="400"> | Perbarui estimasi stasiun yang terhubung langsung. Stasiun E, dengan waktu tempuh 5 menit dari Stasiun C, menjadi 7 menit. |
+| <img src="https://github.com/user-attachments/assets/11800ef0-1d62-4394-81cb-8753b00b4dbb" width="400"> | Jika ditemukan jalur lebih cepat, perbarui estimasi. Misalnya, jalur dari Stasiun C ke Stasiun B (1 menit) membuat total waktu ke Stasiun B menjadi 3 menit. <br>  <br> Pilih stasiun belum dieksplorasi dengan estimasi terkecil dan lanjutkan proses. <br> <br>  Ulangi pembaruan estimasi setiap kali ada jalur lebih cepat. |
+| <img src="https://github.com/user-attachments/assets/0b1e8b42-e19f-4acc-8693-b8a1b2101460" width="400"> | Jika Stasiun D menjadi stasiun berikutnya yang dieksplorasi, berarti hampir selesai. <br> <br>  Ketika Stasiun D telah dieksplorasi, jalur tercepat telah ditemukan. |
 
 
 ###
