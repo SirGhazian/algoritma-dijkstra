@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="left">⊹ Contoh Kasus</h1>
+<h1 align="left">‣【 Contoh Kasus 】</h1> 
 
 ###
 
@@ -27,6 +27,13 @@ Graf berbobot merepresentasikan stasiun sebagai simpul dan jalur sebagai sisi de
 
 <br>
 
-<h1 align="left">⊹ Langkah Penyelesaian</h1>
+<h1 align="left">‣【 Langkah Penyelesaian 】</h1>
+
+
+| Graf | Penjelasan |
+|--------|-----------|
+| <img src="1" width="100"> | 1 |
+| <img src="2" width="100"> | 2 |
+
 
 ###
