@@ -40,3 +40,24 @@ Graf berbobot merepresentasikan stasiun sebagai simpul dan jalur sebagai sisi de
 
 
 ###
+
+
+---
+
+<br>
+
+<h1 align="left">‣【 Informasi Dosen 】</h1>
+<img align="left" width="160" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/58bffcd0-9983-4a84-9fc6-857c625cb609">
+
+**Randi Proska Sandra, S.Pd, M.Sc** </br>
+`Lecturer in Informatics` </br></br>
+Randi completed his graduate degree at the Graduate Institute of Network Learning Technology, National Central University, Taiwan. He is a lecturer in the Informatics Bachelor Program at Universitas Negeri Padang, with interests in learning analytics, UI/UX design, software engineering project management, AI-supported educational technologies, and educational data mining. He has training from Microsoft, INTEL, AWS, and the Python Institute, and is a Google Certified Educator and Adobe Creative Educator.
+
+<br>
+
+<h1 align="left">‣【 About and Help 】</h1>
+Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
+<img align="right" width="100" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/b140fe43-3a57-4295-8493-79d929a5e3b0"> 
+
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazian_tza)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIp_064wQ8RqNSEy1asx_4w) 
